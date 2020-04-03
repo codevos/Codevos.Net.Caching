@@ -4,10 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>Provides a universal way to cache method return values.</Description>
     <Authors>Roeland Hermans</Authors>
-	<Company>Codevos</Company>
-  </PropertyGroup>
-
-  <PropertyGroup>
+	  <Company>Codevos</Company>
     <DocumentationFile>Codevos.Net.Caching.xml</DocumentationFile>
   </PropertyGroup>
 
